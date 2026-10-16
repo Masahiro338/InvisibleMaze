@@ -85,6 +85,9 @@ mono_crash.*
 *.unitypackage.meta
 *.app
 
+# URP
+URP.png
+
 # Crashlytics generated file
 crashlytics-build.properties
 
